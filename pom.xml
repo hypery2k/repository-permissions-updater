@@ -50,7 +50,7 @@
                     <dependency>
                         <groupId>org.codehaus.groovy</groupId>
                         <artifactId>groovy-all</artifactId>
-                        <version>2.5.15</version>
+                        <version>3.0.7</version>
                         <scope>runtime</scope>
                         <type>pom</type>
                     </dependency>
@@ -149,7 +149,7 @@
         <dependency>
             <groupId>org.codehaus.groovy</groupId>
             <artifactId>groovy-all</artifactId>
-            <version>2.5.15</version>
+            <version>3.0.7</version>
             <type>pom</type>
         </dependency>
         <dependency>
@@ -207,7 +207,7 @@
         <dependency>
             <groupId>org.kohsuke</groupId>
             <artifactId>github-api</artifactId>
-            <version>1.301</version>
+            <version>1.304</version>
         </dependency>
         <dependency>
             <groupId>org.javatuples</groupId>
